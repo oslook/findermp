@@ -1,1 +1,1 @@
-findermp.video 批量下载工具
+findermp.video.qq.com 批量下载工具
