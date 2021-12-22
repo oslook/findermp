@@ -7,6 +7,9 @@ http://mpvideo.qpic.cn
 
 视频号：
 
-https://finder.video.qq.com/251/20302/stodownload
+https://finder.video.qq.com/251/20302/stodownload?
 
-https://findermp.video.qq.com/251/20304/stodownload
+https://findermp.video.qq.com/251/20304/stodownload?
+
+视频号封面：
+http://wx.qlogo.cn/finderhead/xxx
