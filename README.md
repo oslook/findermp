@@ -16,3 +16,5 @@ https://findermp.video.qq.com/251/20304/stodownload?
 
 视频号封面：
 http://wx.qlogo.cn/finderhead/xxx
+
+/Android/Data/com.tencent.mm/cache/XXX/finder/YYYY
